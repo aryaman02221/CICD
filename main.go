@@ -9,3 +9,5 @@ func Add(a, b int) int {
 func main() {
 	fmt.Println("CI/CD Demo: 1 + 2 =", Add(1, 2))
 }
+
+//This is a single line comment
